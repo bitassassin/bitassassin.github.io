@@ -1,1 +1,2 @@
-# bitassassin.github.io
+# bit-by-bit
+Jekyll for blog
