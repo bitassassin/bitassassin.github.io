@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bit-by-Bit</title>
+    <title>Bit by Bit</title>
     <description>A simple blog of discoveries and failures.
 </description>
     <link>https://bitassassin.github.io/</link>
     <atom:link href="https://bitassassin.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Oct 2018 04:49:04 -0700</pubDate>
-    <lastBuildDate>Fri, 26 Oct 2018 04:49:04 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2018 04:51:21 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 04:51:21 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
