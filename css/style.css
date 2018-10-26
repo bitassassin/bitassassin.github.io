@@ -14,12 +14,12 @@ body {
 	font-family: "Open Sans";
 }
 
-header, nav, main, footer {
+header, main, footer {
 	margin: 15px;
 	border-bottom: 1px dashed rgba(255,255,255,0.5);
 }
 
-header, nav {
+header, .trigger, .page-title {
 	text-align: center;
 }
 
@@ -32,22 +32,22 @@ header, nav {
 	font: 10px/5px monospace;
 }
 
-nav ul {
+.trigger, .page-title, ul {
 	display: block;
 	padding: 0;
 }
 
-nav ul li {
+.trigger, .page-title, ul, li {
 	display: inline;
 	padding-left: 10px;
 }
 
-nav ul li a {
+.trigger, .page-title, ul, li, a {
 	text-decoration: none;
 	color: rgba(255,255,255,1);
 }
 
-nav ul li a:hover {
+.trigger, .page-title, ul, li, a:hover {
 	font-weight: bold;
 }
 
@@ -79,22 +79,20 @@ pre {
 	background-color: #0D0D0D;
 }
 
-img, main iframe {
+img, iframe {
 	width: 80%;
 	margin-left: 10%;
 	border: 1px dashed rgba(255,255,255,0.5);
 }
 
-main header {
-	text-align: center;
-	padding-bottom: 15px;
-	border: 0;
-}
-
 .site-title {
 	font-family: 'Geostar', cursive;
 	color: rgba(255,255,255,1);
+	font-weight: lighter;
 	font-size: 10em;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
 }
 
 /**
